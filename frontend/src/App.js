@@ -69,7 +69,7 @@ function App() {
 
   return (
     <Container>
-      <h1 className="my-3 text-center">🏨 Hotel Room Reservation</h1>
+      <h1 className="my-3 text-center">Hotel Room Reservation</h1>
       <Controls
         onBook={handleBook}
         onReset={handleReset}
